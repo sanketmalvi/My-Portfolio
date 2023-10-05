@@ -268,6 +268,11 @@ header .follow a:hover{
 .about .row-1 .content .box-container .box span{
     color:var(--main-color);
 }
+
+#email{
+    text-transform: lowercase;
+}
+
 /* ABOUT SECTION ENDS */
 
 
